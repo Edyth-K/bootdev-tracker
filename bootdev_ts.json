@@ -1,0 +1,8587 @@
+[
+  {
+    "course_title": "Learn to Code in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Introduction",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Variables",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Functions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          },
+          {
+            "lesson_number": 21,
+            "completed": false
+          },
+          {
+            "lesson_number": 22,
+            "completed": false
+          },
+          {
+            "lesson_number": 23,
+            "completed": false
+          },
+          {
+            "lesson_number": 24,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Scope",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Testing and Debugging",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Computing",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Comparisons",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Loops",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Lists",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          },
+          {
+            "lesson_number": 21,
+            "completed": false
+          },
+          {
+            "lesson_number": 22,
+            "completed": false
+          },
+          {
+            "lesson_number": 23,
+            "completed": false
+          },
+          {
+            "lesson_number": 24,
+            "completed": false
+          },
+          {
+            "lesson_number": 25,
+            "completed": false
+          },
+          {
+            "lesson_number": 26,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Dictionaries",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Sets",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 12,
+        "chapter_title": "Errors",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 13,
+        "chapter_title": "Practice",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 14,
+        "chapter_title": "Quiz",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Linux",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Terminals and Shells",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Filesystems",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Permissions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Programs",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Input/Output",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Packages",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Git",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Setup",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Repositories",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Internals",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Config",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Branching",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Merge",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Rebase",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Reset",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Remote",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "GitHub",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Gitignore",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build a Bookbot in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Setup",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Data Analysis",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Report",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Object Oriented Programming in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Clean Code",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Classes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Encapsulation",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Abstraction",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Inheritance",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Polymorphism",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build Asteroids using Python and Pygame",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Pygame",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Player",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Asteroids",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Functional Programming in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Functional Programming",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "First Class Functions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Pure Functions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Recursion",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Function Transformations",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Closures",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Currying",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Decorators",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Sum Types",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build an AI Agent in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "LLMs",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Functions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Function Calling",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Agents",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Data Structures and Algorithms in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Algorithms Intro",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Math",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Big-O Analysis",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Sorting Algorithms",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          },
+          {
+            "lesson_number": 21,
+            "completed": false
+          },
+          {
+            "lesson_number": 22,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Exponential Time",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Data Structures Intro",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Stacks",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Queues",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Linked Lists",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Binary Trees",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Red Black Trees",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 12,
+        "chapter_title": "Hashmaps",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 13,
+        "chapter_title": "Tries",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 14,
+        "chapter_title": "Graphs",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 15,
+        "chapter_title": "BFS and DFS",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 16,
+        "chapter_title": "P vs NP",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build a Static Site Generator in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Static Sites",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Nodes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Inline",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Blocks",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Website",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Memory Management in C",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "C Basics",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          },
+          {
+            "lesson_number": 21,
+            "completed": false
+          },
+          {
+            "lesson_number": 22,
+            "completed": false
+          },
+          {
+            "lesson_number": 23,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Structs",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Pointers",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Enums",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Unions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Stack and Heap",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Advanced Pointers",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Stack Data Structure",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Objects",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Refcounting GC",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Mark and Sweep GC",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "First Personal Project",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Placeholder",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn JavaScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Variables",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Comparisons",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Functions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Objects",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Classes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Prototypes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Loops",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Arrays",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Errors",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Sets",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Maps",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 12,
+        "chapter_title": "Promises",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 13,
+        "chapter_title": "The Event Loop",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 14,
+        "chapter_title": "Runtimes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 15,
+        "chapter_title": "Modules",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn TypeScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Types",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Functions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Unions",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Arrays",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Objects",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Tuples",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Intersections",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Interfaces",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Enums",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Type Narrowing",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Classes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 12,
+        "chapter_title": "Utility Types",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 13,
+        "chapter_title": "Generics",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 14,
+        "chapter_title": "Conditional Types",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 15,
+        "chapter_title": "Local Development",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn HTTP Clients in TypeScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Why HTTP?",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "DNS",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "URIs",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Errors",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Headers",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "JSON",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Methods",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Paths",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "HTTPS",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build a Pokedex in TypeScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "REPL",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Cache",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Pokedex",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn SQL",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Introduction",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Tables",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Constraints",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "CRUD",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          },
+          {
+            "lesson_number": 21,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Basic Queries",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Structuring",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Aggregations",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Subqueries",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Normalization",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Joins",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Performance",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build a Blog Aggregator in Typescript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Config",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Database",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "RSS",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Following",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Aggregate",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn HTTP Servers in TypeScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Servers",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Routing",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Architecture",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "JSON",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Error Handling",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Storage",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Authentication",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Authorization",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Webhooks",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Documentation",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn File Servers and CDNs with S3 and CloudFront",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "File Storage",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Caching",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "AWS S3",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Object Storage",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Video Streaming",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Security",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "CDNs",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Resiliency",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Docker",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Install",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Containers",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Storage",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Execute",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Networks",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Dockerfiles",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Debug",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Publish",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn CI/CD with GitHub Actions, Docker and TypeScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Continuous Integration",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Tests",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Formatting",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Linting",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Security",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Build",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Deploy",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Database",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Capstone Project",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Placeholder",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn How to Find a Programming Job",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Strategy",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Projects",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "GitHub Profile",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "LinkedIn Profile",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Resume",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Applying",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Networking",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Interviewing",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Relocation",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Git 2",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Fork",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Reflog",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Merge Conflicts",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Rebase Conflicts",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Squash",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Stash",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Revert",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Cherry Pick",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Bisect",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Worktrees",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 11,
+        "chapter_title": "Tags",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Kubernetes",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Install",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Pods",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Deployments",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "ConfigMaps",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Services",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Ingress",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Storage",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 8,
+        "chapter_title": "Namespaces",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 9,
+        "chapter_title": "Scaling",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 10,
+        "chapter_title": "Nodes",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build a Web Crawler in TypeScript",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Placeholder",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Learn Data Structures and Algorithms 2 in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Dijkstra's",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Bellman-Ford",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Heaps",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "A* Search",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 5,
+        "chapter_title": "Dynamic Programming",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 6,
+        "chapter_title": "Edit Distance",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 7,
+        "chapter_title": "Linear Programming",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          },
+          {
+            "lesson_number": 5,
+            "completed": false
+          },
+          {
+            "lesson_number": 6,
+            "completed": false
+          },
+          {
+            "lesson_number": 7,
+            "completed": false
+          },
+          {
+            "lesson_number": 8,
+            "completed": false
+          },
+          {
+            "lesson_number": 9,
+            "completed": false
+          },
+          {
+            "lesson_number": 10,
+            "completed": false
+          },
+          {
+            "lesson_number": 11,
+            "completed": false
+          },
+          {
+            "lesson_number": 12,
+            "completed": false
+          },
+          {
+            "lesson_number": 13,
+            "completed": false
+          },
+          {
+            "lesson_number": 14,
+            "completed": false
+          },
+          {
+            "lesson_number": 15,
+            "completed": false
+          },
+          {
+            "lesson_number": 16,
+            "completed": false
+          },
+          {
+            "lesson_number": 17,
+            "completed": false
+          },
+          {
+            "lesson_number": 18,
+            "completed": false
+          },
+          {
+            "lesson_number": 19,
+            "completed": false
+          },
+          {
+            "lesson_number": 20,
+            "completed": false
+          },
+          {
+            "lesson_number": 21,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "course_title": "Build a Maze Solver in Python",
+    "chapters": [
+      {
+        "chapter_number": 1,
+        "chapter_title": "Tkinter",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 2,
+        "chapter_title": "Cells",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 3,
+        "chapter_title": "Maze",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          },
+          {
+            "lesson_number": 4,
+            "completed": false
+          }
+        ]
+      },
+      {
+        "chapter_number": 4,
+        "chapter_title": "Solve",
+        "lessons": [
+          {
+            "lesson_number": 1,
+            "completed": false
+          },
+          {
+            "lesson_number": 2,
+            "completed": false
+          },
+          {
+            "lesson_number": 3,
+            "completed": false
+          }
+        ]
+      }
+    ]
+  }
+]
