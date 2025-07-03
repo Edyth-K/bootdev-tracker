@@ -1,3 +1,5 @@
 myenv
 symbols.txt
 __pycache__
+test/
+idea.txt

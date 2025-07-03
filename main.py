@@ -16,7 +16,8 @@ class Agent:
         output.append(prefix_str)
 
         for course in data:
-            output.append(f"# {course['course_title']} {self.course_status(course)}\n")
+            output.append('<details>')
+            output.append(f"<summary><strong>{course['course_title']} {self.course_status(course)}</strong></summary>\n")
             output.append('```')
             for chapter in course['chapters']:
                 title = chapter['chapter_title'].ljust(title_padding)
@@ -29,6 +30,7 @@ class Agent:
                     prefix = title if i == 0 else " " * title_padding
                     output.append(f"{prefix}{' '.join(row)}")
             output.append('```')
+            output.append('</details>')
 
             output.append("\n---\n")
         return "\n".join(output)
