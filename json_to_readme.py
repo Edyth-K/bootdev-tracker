@@ -7,7 +7,7 @@ def json_to_markdown(data, title_padding=25, max_per_row=10):
         output.append('```')
         for chapter in course['chapters']:
             title = chapter['chapter_title'].ljust(title_padding)
-            checkboxes = ["[x]" if l["completed"] else "[ ]" for l in chapter["lessons"]]
+            checkboxes = ["[✔️]" if l["completed"] else "[ ]" for l in chapter["lessons"]]
             
             # Split checkboxes into chunks of max_per_row
             rows = [checkboxes[i:i+max_per_row] for i in range(0, len(checkboxes), max_per_row)]
