@@ -1,4 +1,5 @@
-# Learn to Code in Python
+⏳In Progress || ✅Complete || ➖Not Started
+# Learn to Code in Python ✅
 
 ```
 Introduction             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -30,99 +31,99 @@ Quiz                     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 
 ---
 
-# Learn Linux
+# Learn Linux ✅
 
 ```
-Terminals and Shells     [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Filesystems              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Permissions              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Programs                 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Input/Output             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ]
-Packages                 [ ] [ ] [ ] [ ] [ ] [ ]
-```
-
----
-
-# Learn Git
-
-```
-Setup                    [ ] [ ] [ ] [ ] [ ] [ ]
-Repositories             [ ] [ ] [ ] [ ] [ ] [ ]
-Internals                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Config                   [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Branching                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Merge                    [ ] [ ] [ ] [ ] [ ] [ ]
-Rebase                   [ ] [ ] [ ] [ ] [ ] [ ]
-Reset                    [ ] [ ] [ ] [ ] [ ]
-Remote                   [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-GitHub                   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Gitignore                [ ] [ ] [ ] [ ] [ ] [ ]
+Terminals and Shells     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Filesystems              [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Permissions              [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Programs                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Input/Output             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️]
+Packages                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 
 ---
 
-# Build a Bookbot in Python
+# Learn Git ✅
 
 ```
-Setup                    [ ] [ ] [ ] [ ] [ ] [ ]
-Data Analysis            [ ] [ ] [ ] [ ] [ ] [ ]
-Report                   [ ] [ ] [ ]
-```
-
----
-
-# Learn Object Oriented Programming in Python
-
-```
-Clean Code               [ ] [ ] [ ] [ ] [ ] [ ]
-Classes                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ]
-Encapsulation            [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Abstraction              [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Inheritance              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ]
-Polymorphism             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ]
+Setup                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Repositories             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Internals                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Config                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Branching                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Merge                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Rebase                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Reset                    [✔️] [✔️] [✔️] [✔️] [✔️]
+Remote                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+GitHub                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Gitignore                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 
 ---
 
-# Build Asteroids using Python and Pygame
+# Build a Bookbot in Python ✅
 
 ```
-Pygame                   [ ] [ ] [ ]
-Player                   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Asteroids                [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-```
-
----
-
-# Learn Functional Programming in Python
-
-```
-Functional Programming   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ]
-First Class Functions    [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ]
-Pure Functions           [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ] [ ]
-Recursion                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ]
-Function Transformations [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Closures                 [ ] [ ] [ ] [ ] [ ]
-Currying                 [ ] [ ] [ ] [ ] [ ] [ ]
-Decorators               [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Sum Types                [ ] [ ] [ ] [ ] [ ] [ ]
+Setup                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Data Analysis            [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Report                   [✔️] [✔️] [✔️]
 ```
 
 ---
 
-# Build an AI Agent in Python
+# Learn Object Oriented Programming in Python ✅
 
 ```
-LLMs                     [ ] [ ] [ ] [ ] [ ] [ ]
+Clean Code               [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Classes                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️]
+Encapsulation            [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Abstraction              [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Inheritance              [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️]
+Polymorphism             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️]
+```
+
+---
+
+# Build Asteroids using Python and Pygame ✅
+
+```
+Pygame                   [✔️] [✔️] [✔️]
+Player                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Asteroids                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+```
+
+---
+
+# Learn Functional Programming in Python ✅
+
+```
+Functional Programming   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️]
+First Class Functions    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️]
+Pure Functions           [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Recursion                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️]
+Function Transformations [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Closures                 [✔️] [✔️] [✔️] [✔️] [✔️]
+Currying                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Decorators               [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Sum Types                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+```
+
+---
+
+# Build an AI Agent in Python ⏳
+
+```
+LLMs                     [✔️] [ ] [ ] [ ] [ ] [ ]
 Functions                [ ] [ ] [ ] [ ] [ ]
 Function Calling         [ ] [ ] [ ] [ ]
 Agents                   [ ] [ ] [ ]
@@ -130,28 +131,28 @@ Agents                   [ ] [ ] [ ]
 
 ---
 
-# Learn Data Structures and Algorithms in Python
+# Learn Data Structures and Algorithms in Python ⏳
 
 ```
-Algorithms Intro         [ ] [ ] [ ] [ ] [ ] [ ]
-Math                     [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ]
-Big-O Analysis           [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ]
-Sorting Algorithms       [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ]
-Exponential Time         [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Data Structures Intro    [ ] [ ] [ ] [ ] [ ] [ ]
-Stacks                   [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Queues                   [ ] [ ] [ ] [ ] [ ] [ ]
-Linked Lists             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Binary Trees             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ]
-Red Black Trees          [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Hashmaps                 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Tries                    [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Graphs                   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Algorithms Intro         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Math                     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️]
+Big-O Analysis           [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️]
+Sorting Algorithms       [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️]
+Exponential Time         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Data Structures Intro    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Stacks                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Queues                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Linked Lists             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Binary Trees             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️]
+Red Black Trees          [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Hashmaps                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Tries                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Graphs                   [✔️] [✔️] [✔️] [ ] [ ] [ ] [ ] [ ] [ ]
 BFS and DFS              [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 P vs NP                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
                          [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -159,19 +160,19 @@ P vs NP                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Build a Static Site Generator in Python
+# Build a Static Site Generator in Python ✅
 
 ```
-Static Sites             [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-Nodes                    [ ] [ ] [ ] [ ] [ ] [ ]
-Inline                   [ ] [ ] [ ] [ ] [ ] [ ]
-Blocks                   [ ] [ ] [ ]
-Website                  [ ] [ ] [ ] [ ] [ ] [ ]
+Static Sites             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Nodes                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Inline                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+Blocks                   [✔️] [✔️] [✔️]
+Website                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 
 ---
 
-# Learn Memory Management in C
+# Learn Memory Management in C ➖
 
 ```
 C Basics                 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -192,7 +193,7 @@ Mark and Sweep GC        [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# First Personal Project
+# First Personal Project ➖
 
 ```
 Placeholder              [ ] [ ] [ ] [ ]
@@ -200,7 +201,7 @@ Placeholder              [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn JavaScript
+# Learn JavaScript ➖
 
 ```
 Variables                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -226,7 +227,7 @@ Modules                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn TypeScript
+# Learn TypeScript ➖
 
 ```
 Types                    [ ] [ ] [ ] [ ] [ ] [ ]
@@ -249,7 +250,7 @@ Local Development        [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn HTTP Clients in TypeScript
+# Learn HTTP Clients in TypeScript ➖
 
 ```
 Why HTTP?                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -268,7 +269,7 @@ HTTPS                    [ ] [ ] [ ] [ ]
 
 ---
 
-# Build a Pokedex in TypeScript
+# Build a Pokedex in TypeScript ➖
 
 ```
 REPL                     [ ] [ ] [ ] [ ] [ ]
@@ -278,7 +279,7 @@ Pokedex                  [ ] [ ]
 
 ---
 
-# Learn SQL
+# Learn SQL ➖
 
 ```
 Introduction             [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -302,7 +303,7 @@ Performance              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Build a Blog Aggregator in Typescript
+# Build a Blog Aggregator in Typescript ➖
 
 ```
 Config                   [ ] [ ] [ ] [ ]
@@ -314,7 +315,7 @@ Aggregate                [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn HTTP Servers in TypeScript
+# Learn HTTP Servers in TypeScript ➖
 
 ```
 Servers                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -334,7 +335,7 @@ Documentation            [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn File Servers and CDNs with S3 and CloudFront
+# Learn File Servers and CDNs with S3 and CloudFront ➖
 
 ```
 File Storage             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -349,7 +350,7 @@ Resiliency               [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn Docker
+# Learn Docker ➖
 
 ```
 Install                  [ ] [ ] [ ] [ ]
@@ -364,7 +365,7 @@ Publish                  [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn CI/CD with GitHub Actions, Docker and TypeScript
+# Learn CI/CD with GitHub Actions, Docker and TypeScript ➖
 
 ```
 Continuous Integration   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -379,7 +380,7 @@ Database                 [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Capstone Project
+# Capstone Project ➖
 
 ```
 Placeholder              [ ] [ ] [ ]
@@ -387,7 +388,7 @@ Placeholder              [ ] [ ] [ ]
 
 ---
 
-# Learn How to Find a Programming Job
+# Learn How to Find a Programming Job ➖
 
 ```
 Strategy                 [ ] [ ] [ ] [ ]
@@ -403,7 +404,7 @@ Relocation               [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn Git 2
+# Learn Git 2 ➖
 
 ```
 Fork                     [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -422,7 +423,7 @@ Tags                     [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn Kubernetes
+# Learn Kubernetes ➖
 
 ```
 Install                  [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -440,7 +441,7 @@ Nodes                    [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Build a Web Crawler in TypeScript
+# Build a Web Crawler in TypeScript ➖
 
 ```
 Placeholder              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -448,7 +449,7 @@ Placeholder              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Learn Data Structures and Algorithms 2 in Python
+# Learn Data Structures and Algorithms 2 in Python ➖
 
 ```
 Dijkstra's               [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -465,7 +466,7 @@ Linear Programming       [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 ---
 
-# Build a Maze Solver in Python
+# Build a Maze Solver in Python ➖
 
 ```
 Tkinter                  [ ] [ ] [ ]

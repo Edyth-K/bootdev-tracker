@@ -813,43 +813,43 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -859,71 +859,71 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 16,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 17,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -933,39 +933,39 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -975,39 +975,39 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1017,63 +1017,63 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1083,27 +1083,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       }
@@ -1118,27 +1118,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1148,27 +1148,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1178,35 +1178,35 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1216,31 +1216,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1250,43 +1250,43 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1296,27 +1296,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1326,27 +1326,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1356,23 +1356,23 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1382,31 +1382,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1416,35 +1416,35 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1454,27 +1454,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       }
@@ -1489,27 +1489,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1519,27 +1519,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1549,15 +1549,15 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           }
         ]
       }
@@ -1572,27 +1572,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1602,51 +1602,51 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1656,35 +1656,35 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1694,31 +1694,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1728,63 +1728,63 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1794,55 +1794,55 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           }
         ]
       }
@@ -1857,15 +1857,15 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1875,35 +1875,35 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -1913,31 +1913,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       }
@@ -1952,51 +1952,51 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2006,47 +2006,47 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2056,67 +2056,67 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 16,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2126,63 +2126,63 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2192,31 +2192,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2226,23 +2226,23 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2252,27 +2252,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2282,35 +2282,35 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2320,27 +2320,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       }
@@ -2355,7 +2355,7 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
@@ -2456,27 +2456,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2486,63 +2486,63 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2552,55 +2552,55 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2610,91 +2610,91 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 16,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 17,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 18,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 19,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 20,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 21,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 22,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2704,43 +2704,43 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2750,27 +2750,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2780,31 +2780,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2814,27 +2814,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2844,43 +2844,43 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2890,63 +2890,63 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 11,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 12,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 13,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 14,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 15,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2956,39 +2956,39 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -2998,43 +2998,43 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -3044,43 +3044,43 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 8,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 9,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 10,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -3090,15 +3090,15 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
@@ -3257,31 +3257,31 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 7,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -3291,27 +3291,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -3321,27 +3321,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -3351,15 +3351,15 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           }
         ]
       },
@@ -3369,27 +3369,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       }
