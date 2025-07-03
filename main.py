@@ -32,7 +32,7 @@ class Agent:
             output.append('```')
             output.append('</details>')
 
-            output.append("\n---\n")
+            output.append("\n")
         return "\n".join(output)
 
     # helper function for json_to_markdown: add symbol for complete, incomplete, in progress

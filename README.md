@@ -31,7 +31,6 @@ Quiz                     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Linux ✅</strong></summary>
@@ -48,7 +47,6 @@ Packages                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Git ✅</strong></summary>
@@ -68,7 +66,6 @@ Gitignore                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build a Bookbot in Python ✅</strong></summary>
@@ -80,7 +77,6 @@ Report                   [✔️] [✔️] [✔️]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Object Oriented Programming in Python ✅</strong></summary>
@@ -98,7 +94,6 @@ Polymorphism             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build Asteroids using Python and Pygame ✅</strong></summary>
@@ -110,7 +105,6 @@ Asteroids                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Functional Programming in Python ✅</strong></summary>
@@ -132,7 +126,6 @@ Sum Types                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build an AI Agent in Python ⏳</strong></summary>
@@ -145,7 +138,6 @@ Agents                   [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Data Structures and Algorithms in Python ⏳</strong></summary>
@@ -176,7 +168,6 @@ P vs NP                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build a Static Site Generator in Python ✅</strong></summary>
@@ -190,7 +181,6 @@ Website                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Memory Management in C ➖</strong></summary>
@@ -213,7 +203,6 @@ Mark and Sweep GC        [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>First Personal Project ➖</strong></summary>
@@ -223,7 +212,6 @@ Placeholder              [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn JavaScript ➖</strong></summary>
@@ -251,7 +239,6 @@ Modules                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn TypeScript ➖</strong></summary>
@@ -276,7 +263,6 @@ Local Development        [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn HTTP Clients in TypeScript ➖</strong></summary>
@@ -297,7 +283,6 @@ HTTPS                    [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build a Pokedex in TypeScript ➖</strong></summary>
@@ -309,7 +294,6 @@ Pokedex                  [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn SQL ➖</strong></summary>
@@ -335,7 +319,6 @@ Performance              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build a Blog Aggregator in Typescript ➖</strong></summary>
@@ -349,7 +332,6 @@ Aggregate                [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn HTTP Servers in TypeScript ➖</strong></summary>
@@ -371,7 +353,6 @@ Documentation            [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn File Servers and CDNs with S3 and CloudFront ➖</strong></summary>
@@ -388,7 +369,6 @@ Resiliency               [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Docker ➖</strong></summary>
@@ -405,7 +385,6 @@ Publish                  [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn CI/CD with GitHub Actions, Docker and TypeScript ➖</strong></summary>
@@ -422,7 +401,6 @@ Database                 [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Capstone Project ➖</strong></summary>
@@ -432,7 +410,6 @@ Placeholder              [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn How to Find a Programming Job ➖</strong></summary>
@@ -450,7 +427,6 @@ Relocation               [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Git 2 ➖</strong></summary>
@@ -471,7 +447,6 @@ Tags                     [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Kubernetes ➖</strong></summary>
@@ -491,7 +466,6 @@ Nodes                    [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build a Web Crawler in TypeScript ➖</strong></summary>
@@ -501,7 +475,6 @@ Placeholder              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Learn Data Structures and Algorithms 2 in Python ➖</strong></summary>
@@ -520,7 +493,6 @@ Linear Programming       [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 ```
 </details>
 
----
 
 <details>
 <summary><strong>Build a Maze Solver in Python ➖</strong></summary>
@@ -533,4 +505,3 @@ Solve                    [ ] [ ] [ ]
 ```
 </details>
 
----
