@@ -1,6 +1,6 @@
 ⏳In Progress || ✅Complete || ➖Not Started
 <details>
-<summary><strong>Learn to Code in Python ✅</strong></summary>
+<summary><strong>✅ Learn to Code in Python</strong></summary>
 
 ```
 Introduction             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -33,7 +33,7 @@ Quiz                     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 
 
 <details>
-<summary><strong>Learn Linux ✅</strong></summary>
+<summary><strong>✅ Learn Linux</strong></summary>
 
 ```
 Terminals and Shells     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -49,7 +49,7 @@ Packages                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 
 
 <details>
-<summary><strong>Learn Git ✅</strong></summary>
+<summary><strong>✅ Learn Git</strong></summary>
 
 ```
 Setup                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -68,7 +68,7 @@ Gitignore                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 
 
 <details>
-<summary><strong>Build a Bookbot in Python ✅</strong></summary>
+<summary><strong>✅ Build a Bookbot in Python</strong></summary>
 
 ```
 Setup                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -79,7 +79,7 @@ Report                   [✔️] [✔️] [✔️]
 
 
 <details>
-<summary><strong>Learn Object Oriented Programming in Python ✅</strong></summary>
+<summary><strong>✅ Learn Object Oriented Programming in Python</strong></summary>
 
 ```
 Clean Code               [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -96,7 +96,7 @@ Polymorphism             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 
 
 <details>
-<summary><strong>Build Asteroids using Python and Pygame ✅</strong></summary>
+<summary><strong>✅ Build Asteroids using Python and Pygame</strong></summary>
 
 ```
 Pygame                   [✔️] [✔️] [✔️]
@@ -107,7 +107,7 @@ Asteroids                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 
 
 <details>
-<summary><strong>Learn Functional Programming in Python ✅</strong></summary>
+<summary><strong>✅ Learn Functional Programming in Python</strong></summary>
 
 ```
 Functional Programming   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -128,7 +128,7 @@ Sum Types                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 
 
 <details>
-<summary><strong>Build an AI Agent in Python ⏳</strong></summary>
+<summary><strong>⏳ Build an AI Agent in Python</strong></summary>
 
 ```
 LLMs                     [✔️] [ ] [ ] [ ] [ ] [ ]
@@ -140,7 +140,7 @@ Agents                   [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn Data Structures and Algorithms in Python ⏳</strong></summary>
+<summary><strong>⏳ Learn Data Structures and Algorithms in Python</strong></summary>
 
 ```
 Algorithms Intro         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -170,7 +170,7 @@ P vs NP                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Build a Static Site Generator in Python ✅</strong></summary>
+<summary><strong>✅ Build a Static Site Generator in Python</strong></summary>
 
 ```
 Static Sites             [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -183,7 +183,7 @@ Website                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 
 
 <details>
-<summary><strong>Learn Memory Management in C ➖</strong></summary>
+<summary><strong>➖ Learn Memory Management in C</strong></summary>
 
 ```
 C Basics                 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -205,7 +205,7 @@ Mark and Sweep GC        [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>First Personal Project ➖</strong></summary>
+<summary><strong>➖ First Personal Project</strong></summary>
 
 ```
 Placeholder              [ ] [ ] [ ] [ ]
@@ -214,7 +214,7 @@ Placeholder              [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn JavaScript ➖</strong></summary>
+<summary><strong>➖ Learn JavaScript</strong></summary>
 
 ```
 Variables                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -241,7 +241,7 @@ Modules                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn TypeScript ➖</strong></summary>
+<summary><strong>➖ Learn TypeScript</strong></summary>
 
 ```
 Types                    [ ] [ ] [ ] [ ] [ ] [ ]
@@ -265,7 +265,7 @@ Local Development        [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn HTTP Clients in TypeScript ➖</strong></summary>
+<summary><strong>➖ Learn HTTP Clients in TypeScript</strong></summary>
 
 ```
 Why HTTP?                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -285,7 +285,7 @@ HTTPS                    [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Build a Pokedex in TypeScript ➖</strong></summary>
+<summary><strong>➖ Build a Pokedex in TypeScript</strong></summary>
 
 ```
 REPL                     [ ] [ ] [ ] [ ] [ ]
@@ -296,7 +296,7 @@ Pokedex                  [ ] [ ]
 
 
 <details>
-<summary><strong>Learn SQL ➖</strong></summary>
+<summary><strong>➖ Learn SQL</strong></summary>
 
 ```
 Introduction             [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -321,7 +321,7 @@ Performance              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Build a Blog Aggregator in Typescript ➖</strong></summary>
+<summary><strong>➖ Build a Blog Aggregator in Typescript</strong></summary>
 
 ```
 Config                   [ ] [ ] [ ] [ ]
@@ -334,7 +334,7 @@ Aggregate                [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn HTTP Servers in TypeScript ➖</strong></summary>
+<summary><strong>➖ Learn HTTP Servers in TypeScript</strong></summary>
 
 ```
 Servers                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -355,7 +355,7 @@ Documentation            [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn File Servers and CDNs with S3 and CloudFront ➖</strong></summary>
+<summary><strong>➖ Learn File Servers and CDNs with S3 and CloudFront</strong></summary>
 
 ```
 File Storage             [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -371,7 +371,7 @@ Resiliency               [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn Docker ➖</strong></summary>
+<summary><strong>➖ Learn Docker</strong></summary>
 
 ```
 Install                  [ ] [ ] [ ] [ ]
@@ -387,7 +387,7 @@ Publish                  [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn CI/CD with GitHub Actions, Docker and TypeScript ➖</strong></summary>
+<summary><strong>➖ Learn CI/CD with GitHub Actions, Docker and TypeScript</strong></summary>
 
 ```
 Continuous Integration   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -403,7 +403,7 @@ Database                 [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Capstone Project ➖</strong></summary>
+<summary><strong>➖ Capstone Project</strong></summary>
 
 ```
 Placeholder              [ ] [ ] [ ]
@@ -412,7 +412,7 @@ Placeholder              [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn How to Find a Programming Job ➖</strong></summary>
+<summary><strong>➖ Learn How to Find a Programming Job</strong></summary>
 
 ```
 Strategy                 [ ] [ ] [ ] [ ]
@@ -429,7 +429,7 @@ Relocation               [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn Git 2 ➖</strong></summary>
+<summary><strong>➖ Learn Git 2</strong></summary>
 
 ```
 Fork                     [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -449,7 +449,7 @@ Tags                     [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn Kubernetes ➖</strong></summary>
+<summary><strong>➖ Learn Kubernetes</strong></summary>
 
 ```
 Install                  [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -468,7 +468,7 @@ Nodes                    [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Build a Web Crawler in TypeScript ➖</strong></summary>
+<summary><strong>➖ Build a Web Crawler in TypeScript</strong></summary>
 
 ```
 Placeholder              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -477,7 +477,7 @@ Placeholder              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Learn Data Structures and Algorithms 2 in Python ➖</strong></summary>
+<summary><strong>➖ Learn Data Structures and Algorithms 2 in Python</strong></summary>
 
 ```
 Dijkstra's               [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
@@ -495,7 +495,7 @@ Linear Programming       [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>Build a Maze Solver in Python ➖</strong></summary>
+<summary><strong>➖ Build a Maze Solver in Python</strong></summary>
 
 ```
 Tkinter                  [ ] [ ] [ ]

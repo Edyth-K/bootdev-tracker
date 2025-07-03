@@ -17,7 +17,7 @@ class Agent:
 
         for course in data:
             output.append('<details>')
-            output.append(f"<summary><strong>{course['course_title']} {self.course_status(course)}</strong></summary>\n")
+            output.append(f"<summary><strong>{self.course_status(course)} {course['course_title']}</strong></summary>\n")
             output.append('```')
             for chapter in course['chapters']:
                 title = chapter['chapter_title'].ljust(title_padding)
