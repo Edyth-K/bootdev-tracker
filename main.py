@@ -78,14 +78,13 @@ class Agent:
             index += 1
 
     def temp(self):
-        index = 0
         for course_dict in self.data:
             if course_dict["course_title"] == "Learn Data Structures and Algorithms in Python":
                 for chapter_dict in course_dict["chapters"]:
-                    if chapter_dict["chapter_number"] <= 13:
+                    if chapter_dict["chapter_title"] == "Graphs":
                         for lesson_dict in chapter_dict["lessons"]:
                             lesson_dict["completed"] = True
-            index += 1
+
 
     def auto_commit(self):
         auto_git_push()
