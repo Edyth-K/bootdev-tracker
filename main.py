@@ -81,13 +81,14 @@ class Agent:
         for course_dict in self.data:
             if course_dict["course_title"] == "Learn Data Structures and Algorithms in Python":
                 for chapter_dict in course_dict["chapters"]:
-                    if chapter_dict["chapter_title"] == "Graphs":
+                    if chapter_dict["chapter_title"] == "BFS and DFS":
                         for lesson_dict in chapter_dict["lessons"]:
                             lesson_dict["completed"] = True
 
 
     def auto_commit(self):
         auto_git_push()
+        self.running = False
 
     def parse_command(self, choice):
         match choice:
