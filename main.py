@@ -81,7 +81,7 @@ class Agent:
         for course_dict in self.data:
             if course_dict["course_title"] == "Learn Data Structures and Algorithms in Python":
                 for chapter_dict in course_dict["chapters"]:
-                    if chapter_dict["chapter_title"] == "BFS and DFS":
+                    if chapter_dict["chapter_title"] == "P vs NP":
                         for lesson_dict in chapter_dict["lessons"]:
                             lesson_dict["completed"] = True
 

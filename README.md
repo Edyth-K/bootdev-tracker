@@ -140,7 +140,7 @@ Agents                   [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>⏳ Learn Data Structures and Algorithms in Python</strong></summary>
+<summary><strong>✅ Learn Data Structures and Algorithms in Python</strong></summary>
 
 ```
 Algorithms Intro         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -163,8 +163,8 @@ Hashmaps                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 Tries                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 Graphs                   [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 BFS and DFS              [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
-P vs NP                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+P vs NP                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 </details>
 
