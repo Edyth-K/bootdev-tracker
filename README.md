@@ -131,7 +131,7 @@ Sum Types                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 <summary><strong>⏳ Build an AI Agent in Python</strong></summary>
 
 ```
-LLMs                     [✔️] [ ] [ ] [ ] [ ] [ ]
+LLMs                     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 Functions                [ ] [ ] [ ] [ ] [ ]
 Function Calling         [ ] [ ] [ ] [ ]
 Agents                   [ ] [ ] [ ]
