@@ -183,12 +183,12 @@ Website                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 
 
 <details>
-<summary><strong>➖ Learn Memory Management in C</strong></summary>
+<summary><strong>⏳ Learn Memory Management in C</strong></summary>
 
 ```
-C Basics                 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ]
+C Basics                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️]
 Structs                  [ ] [ ] [ ] [ ] [ ] [ ]
 Pointers                 [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
                          [ ] [ ] [ ] [ ] [ ] [ ] [ ]

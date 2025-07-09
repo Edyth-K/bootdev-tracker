@@ -79,9 +79,9 @@ class Agent:
 
     def temp(self):
         for course_dict in self.data:
-            if course_dict["course_title"] == "Build an AI Agent in Python":
+            if course_dict["course_title"] == "Learn Memory Management in C":
                 for chapter_dict in course_dict["chapters"]:
-                    if chapter_dict["chapter_title"] == "Functions":
+                    if chapter_dict["chapter_title"] == "C Basics":
                         for lesson_dict in chapter_dict["lessons"]:
                             lesson_dict["completed"] = True
 
