@@ -81,7 +81,7 @@ class Agent:
         for course_dict in self.data:
             if course_dict["course_title"] == "Build an AI Agent in Python":
                 for chapter_dict in course_dict["chapters"]:
-                    if chapter_dict["chapter_title"] == "LLMs":
+                    if chapter_dict["chapter_title"] == "Functions":
                         for lesson_dict in chapter_dict["lessons"]:
                             lesson_dict["completed"] = True
 

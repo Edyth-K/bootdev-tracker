@@ -132,7 +132,7 @@ Sum Types                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 
 ```
 LLMs                     [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
-Functions                [ ] [ ] [ ] [ ] [ ]
+Functions                [✔️] [✔️] [✔️] [✔️] [✔️]
 Function Calling         [ ] [ ] [ ] [ ]
 Agents                   [ ] [ ] [ ]
 ```
