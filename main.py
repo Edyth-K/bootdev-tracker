@@ -81,7 +81,7 @@ class Agent:
         for course_dict in self.data:
             if course_dict["course_title"] == "Learn Memory Management in C":
                 for chapter_dict in course_dict["chapters"]:
-                    if chapter_dict["chapter_title"] == "Pointers" or chapter_dict["chapter_title"] == "Pointers":
+                    if chapter_dict["chapter_title"] == "Unions":
                         for lesson_dict in chapter_dict["lessons"]:
                             lesson_dict["completed"] = True
 
