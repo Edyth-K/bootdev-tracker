@@ -79,7 +79,8 @@ class Agent:
             index += 1
 
     def temp(self):
-        self.data = update_data(self.data)
+        self.data, message = update_data(self.data)
+        auto_git_push(commit_message=message)
 
     def auto_commit(self):
         auto_git_push()
