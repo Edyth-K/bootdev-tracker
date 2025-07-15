@@ -10,6 +10,7 @@ class Agent:
     def __init__(self):
         self.data = self.load_data()
         self.running = True
+        self.message = None
 
     def json_to_markdown(self, data, title_padding=25, max_per_row=10):
         output = []
@@ -79,11 +80,10 @@ class Agent:
             index += 1
 
     def temp(self):
-        self.data, message = update_data(self.data)
-        auto_git_push(commit_message=message)
+        self.data, self.message = update_data(self.data)
 
     def auto_commit(self):
-        auto_git_push()
+        auto_git_push(commit_message=self.message)
         self.running = False
 
     def parse_command(self, choice):
