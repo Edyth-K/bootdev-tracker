@@ -214,11 +214,11 @@ Placeholder              [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>➖ Learn JavaScript</strong></summary>
+<summary><strong>⏳ Learn JavaScript</strong></summary>
 
 ```
-Variables                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
-                         [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Variables                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
+                         [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 Comparisons              [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Functions                [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
                          [ ]
