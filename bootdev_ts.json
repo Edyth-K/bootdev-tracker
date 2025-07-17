@@ -4162,7 +4162,7 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
