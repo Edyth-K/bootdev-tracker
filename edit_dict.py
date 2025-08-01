@@ -1,7 +1,7 @@
 def update_data(data):
     # Edit Below Here:
     course_title = "Learn JavaScript"
-    chapter_title = "Promises"
+    chapter_title = "The Event Loop"
 
     # Don't touch below this
     for course_dict in data:
