@@ -4416,27 +4416,27 @@
         "lessons": [
           {
             "lesson_number": 1,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 2,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 3,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 4,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 5,
-            "completed": false
+            "completed": true
           },
           {
             "lesson_number": 6,
-            "completed": false
+            "completed": true
           }
         ]
       },
