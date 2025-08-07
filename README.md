@@ -214,7 +214,7 @@ Placeholder              [ ] [ ] [ ] [ ]
 
 
 <details>
-<summary><strong>⏳ Learn JavaScript</strong></summary>
+<summary><strong>✅ Learn JavaScript</strong></summary>
 
 ```
 Variables                [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
@@ -235,7 +235,7 @@ Promises                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
                          [✔️]
 The Event Loop           [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 Runtimes                 [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
-Modules                  [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
+Modules                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 ```
 </details>
 
