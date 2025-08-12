@@ -241,10 +241,10 @@ Modules                  [✔️] [✔️] [✔️] [✔️] [✔️] [✔️] [
 
 
 <details>
-<summary><strong>➖ Learn TypeScript</strong></summary>
+<summary><strong>⏳ Learn TypeScript</strong></summary>
 
 ```
-Types                    [ ] [ ] [ ] [ ] [ ] [ ]
+Types                    [✔️] [✔️] [✔️] [✔️] [✔️] [✔️]
 Functions                [ ] [ ] [ ] [ ] [ ] [ ]
 Unions                   [ ] [ ] [ ] [ ] [ ] [ ] [ ] [ ]
 Arrays                   [ ] [ ] [ ] [ ] [ ]
